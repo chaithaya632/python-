@@ -2,7 +2,10 @@ print("caution please enter roll number start from 24")
 
 libary__members={24811:"chaitanya",
                  24812:"satya",
-                 24813:"nandhu"}
+                 24813:"nandhu",
+                 24814:"abhi",
+                 24815:"rakesh",
+                 24816:"mani"}
 print("----libary system----")
 
 try:
