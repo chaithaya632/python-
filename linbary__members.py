@@ -6,7 +6,7 @@ libary__members={24811:"chaitanya",
                  24814:"abhi",
                  24815:"rakesh",
                  24816:"mani"}
-print("----libary system----")
+print("libary system")
 
 try:
     roll_num=int(input("roll_num :"))
